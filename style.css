@@ -1,19 +1,20 @@
+
     .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
     
     @font-face {
       font-family: Montserrat;
-      src: url(/Montserrat-VariableFont_wght.ttf);
+      src: url(./Montserrat-VariableFont_wght.ttf);
     }
     *{
-      font-family: Montserrat;
+      font-family: 'Montserrat';
     }
     @font-face {
       font-family:Fraunces ;
-      src: url(/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
+      src: url(./Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
     }
     #name{
-      font-family: Fraunces;
+      font-family: 'Fraunces';
       font-weight: bold;
       font-size:  40px; ;
     }
@@ -88,7 +89,7 @@
       border-radius: 10px;
       color: white;
     }
-    #btn img{
+    #btn svg{
       margin-right: 10px;
     }
     #btn:hover{
@@ -97,7 +98,7 @@
     }
     #sale{
       color: hsl(158, 36%, 37%);
-      font-family:Fraunces;
+      font-family:'Fraunces';
       font-weight: bold;
       font-size: 30px;
       padding-right: 16px;
