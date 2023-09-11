@@ -4,14 +4,14 @@
     
     @font-face {
       font-family: Montserrat;
-      src: url(./Montserrat-VariableFont_wght.ttf);
+      src: url('../Montserrat-VariableFont_wght.ttf');
     }
     *{
       font-family: 'Montserrat';
     }
     @font-face {
       font-family:Fraunces ;
-      src: url(./Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
+      src: url('../Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf');
     }
     #name{
       font-family: 'Fraunces';
